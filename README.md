@@ -1,8 +1,8 @@
 # 하이
 
-**[jxheum.site](https://jxheum.site)**
+**[jiheum.me](https://jiheum.me)**
 
-**[📧 jxheum@icloud.com](mailto:jxheum@icloud.com)**
+**[📧 jiheum@jiheum.me](mailto:jiheum@jiheum.me)**
 
 <!-- ![Jiheum's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxheum&show_icons=true&theme=ambient_gradient) -->
 
